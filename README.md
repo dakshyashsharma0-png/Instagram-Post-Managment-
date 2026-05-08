@@ -63,6 +63,56 @@ Doubly Linked List implementation
 GUI version
 Better input validation
 Update/Edit user details feature
+Doubly Linked List Instagram Management System
+
+A menu-driven C++ application that simulates an Instagram post management system using a Doubly Linked List. The project demonstrates insertion, deletion, searching, and traversal operations with forward and backward navigation using dynamic memory allocation.
+
+Features
+Insert user details:
+At beginning
+At end
+At specific position
+Delete user details:
+From beginning
+From end
+From specific position
+Forward traversal of records
+Backward traversal of records
+Search captions by username
+Count total nodes
+Interactive console-based menu system
+Technologies Used
+C++
+Object-Oriented Programming (OOP)
+Doubly Linked List
+Dynamic Memory Allocation
+Concepts Implemented
+Classes and Objects
+Constructors
+Pointers
+PREV and NEXT node linking
+Traversal algorithms
+Node insertion and deletion
+Searching in linked lists
+Project Purpose
+
+This project was created to practice and understand:
+
+**Doubly Linked List operations in C++**
+Dynamic data structures
+Memory management
+Menu-driven console applications
+Example Node Structure
+NULL <- [Insta1001, Rahul, My First Post] -> NULL
+How to Run
+g++ main.cpp -o app
+./app
+Future Enhancements
+File handling support
+Update/Edit user details
+Better validation system
+GUI version
+Sorting and filtering features
 
 Author
 
