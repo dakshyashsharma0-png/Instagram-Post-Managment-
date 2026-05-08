@@ -63,6 +63,7 @@ Doubly Linked List implementation
 GUI version
 Better input validation
 Update/Edit user details feature
+
 Author
 
 Developed by Daksh Sharma
