@@ -32,6 +32,6 @@ int main()
     MainLinkList mll;
     mll.MainLinkListModule();
     cout<<"\n\nThank You for Using My App..\m\m";
-    cout<<"Design & Coded By -- Akshita Surana .. \n\n";
+    cout<<"Design & Coded By -- Daksh Sharma .. \n\n";
 }
 
